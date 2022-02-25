@@ -23,13 +23,13 @@ sidebar:
         level: Native
 
     interests:
-      - item: Climbing
+      - item: Coding
         link:
 
-      - item: Snowboarding
+      - item: Music Production & DJing
         link:
 
-      - item: Cooking
+      - item: Boxing & MMA
         link:
 
 career-profile:
@@ -71,20 +71,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
+      - name: Java
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
 
       - name: Sketch & Photoshop
         level: 60%
