@@ -8,21 +8,14 @@ sidebar:
 
     # Profile information
     name: Iakovos Iason Tountas
-    tagline: Full Stack Developer
+    tagline: Junior/Amateur Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    email: p19toun@ionio.gr
+    phone: 6996699669
+    citizenship: Greek
+    github: u2nmd
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
